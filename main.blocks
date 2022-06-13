@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="QqiX%S?_|us,K*Lre,Qt">list</variable><variable id="C-{0hd;BS8p6|U}e#Mkp">Icono</variable><variable id="I=MTrH$,~MAD56)KDh5e">establecer x</variable><variable id="T#CF#@mfx!fRwwhOGN)e">Y</variable></variables><block type="pxt-on-start" id="B:naZ,8J;)k^-jf$y.@#" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="Dx4$1i!d0;^#)9NyWW9."><field name="VAR" id="I=MTrH$,~MAD56)KDh5e">establecer x</field><value name="VALUE"><shadow type="math_number" id="fyFXnj?/e.K:PsYxiAQT"><field name="NUM">2</field></shadow></value><next><block type="variables_set" id="ryf7wsG)=?IEH4ib3Y5O"><field name="VAR" id="T#CF#@mfx!fRwwhOGN)e">Y</field><value name="VALUE"><shadow type="math_number" id="vy,9Q|em*Y{b.U}Qbq+4"><field name="NUM">2</field></shadow></value><next><block type="device_show_leds" id="{y[DU]-R1BsY=#=#n4,i"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="break_keyword" id="1mni0t7#L/[NkvIIvf1?" disabled="true" x="-801" y="613"/></xml>
